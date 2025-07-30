@@ -38,6 +38,9 @@ tests/_support/_generated
 # yii2 assets folder
 /web/assets
 
+#yii2 upload folder
+/web/uploads
+
 # yii2 database connection file
 /config/db.php
 
